@@ -1,4 +1,4 @@
 # Bingo
 Bingo bingo
 #star
-hit
+hitnb
