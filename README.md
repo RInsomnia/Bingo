@@ -4,5 +4,4 @@ Bingo bingo
 hitnb
 dfd22
 
-bmbn
-0.bch000
+
